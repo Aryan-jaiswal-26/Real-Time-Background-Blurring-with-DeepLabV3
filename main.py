@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-from model import Deeplabv3import os
+from model import Deeplabv3
 import os
 from imutils.video import WebcamVideoStream
 
