@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 from model import Deeplabv3
-import os
+
 from imutils.video import WebcamVideoStream
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
